@@ -4,19 +4,24 @@ var i = 0,
     isBackspacing = false,
     isParagraph = false;
 
-// Typerwrite text content. Use a pipe to indicate the start of the second line "|".  
+// Typerwrite text content. Use a pipe to indicate the start of the second line "|"
 var textArray = [
-  "What do you call an alligator wearing a vest?|An Investigator", 
-  "What do you call a fake noodle?|An Impasta", 
-  "Why shouldn't you write with a broken pencil?|Because it's pointless",
-  "Why couldn't the pirate finish the alphabet?|He kept getting lost a C",
-  "What's brown and sticky?|A stick",
-  "What starts with an E, ends with an E and has one letter in it?|An Envelope",
-  "What has four wheels, and flies?|A Garbage truck",
-  "What do you call a pig that knows Karate?|Pork Chop",
-  "Why did the scarecrow get promoted?|He was out standing in his field.",
-  "I have a step ladder|I never knew my real ladder.",
-  "What kind of shoes do ninjas wear?|Sneakers"
+  "Merhaba! | Biraz bekle tmm?", 
+  "Oh, sanırım| Bu sayfayı gören sınırlı kişilerden birisin. Kendimi hızlıca tanıtmak için yaptım.", 
+  "Pekâlâ kendimle başlıyorum",
+  "ismim a-| Ahmet Tuna. 15 yaşındayım ve 13 Şubat 2008'de doğdum. Amasya'da yaşıyorum.",
+  "oğff... Çok mu klasik oldu?",
+  "Tekrar deniyorum | 5, 4, 3, 2",
+  "SELAM | Ben Tuna, çoğu kişi bana genellikle 'ahmet' der ama 'ahmet tuna' ismi daha hoş gelyor.",
+  "En sevdiğim yemek pizza, | 'Ciddi misin? Pizza seviyor kesin obez bu' deme. obez değilim.",
+  "Neyse.. kim olduğumu geçiyorum~ ",
+  "Bağlantılarımdan bahsediyim..",
+  "Instagram | v3xinss ° ahmet.tuna0o ",
+  "Discord | v3x#0001",
+  "Cidden buraya kadar okudun mu? | Teşekkür ederim.",
+  "Son bir şey eklemek istiyorum. | 11 Eylül saldırısı ile alakam yoktur.",
+  "Yardımları için ecrinlins ve nems'e teşekkür ederim. | VexinServerSide"
+  
 ];
 
 // Speed (in milliseconds) of typing.
